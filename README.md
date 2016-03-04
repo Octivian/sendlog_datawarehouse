@@ -1,6 +1,8 @@
 # sendlog_datawarehouse
 hive for send_log format
 
+my log format -> https://github.com/Octivian/sendlog_datawarehouse/blob/master/Sample-Log-Format.log
+
 make a jar,add it to hive classpath.
 
 CREATE EXTERNAL TABLE test_send_log (
