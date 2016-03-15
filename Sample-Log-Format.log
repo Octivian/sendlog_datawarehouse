@@ -1,0 +1,36 @@
+Src: 222.160.194.115:47663
+Dst: 222.161.250.194:80
+timestamp: 1448358395123
+id: 675
+GET /so/so3/a200.apk?_upd=H%E6%83%85%E6%B6%A9%E5%BF%AB%E6%92%AD_hlGS2.apk HTTP/1.1
+Host: 04htl5jtwbqn3uo.jiangya580.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+x-wap-profile: http://218.249.47.94/Xianghe/MTK_Phone_KK_UAprofile.xml
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.4; W900 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+Referer: http://vipdyvipsovipgovipboviphaovipvip.mintaigz.com/bd/?wap.pnejoy.com/chinawj.com.cn?213
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN,en-US;q=0.8
+X-Requested-With: com.android.browser
+
+
+Src: 119.52.134.240:28877
+Dst: 101.71.72.152:80
+timestamp: 1448356328365
+id: 675
+GET /dlied1.qq.com/qqtalk/lol1315.apk?mkey=56540f12f0861282&f=178a&p=.apk HTTP/1.1
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 3 MIUI/5.8.27)
+Host: 101.71.72.152
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+Src: 122.143.183.188:29360
+Dst: 101.71.72.152:80
+timestamp: 1448356924023
+id: 675
+GET /dlied1.qq.com/qqtalk/lol1315.apk?mkey=56540acfbcb7a98f&f=6d25&p=.apk HTTP/1.1
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 3W MIUI/V6.5.2.0.KXDCNCD)
+Host: 101.71.72.152
+Connection: Keep-Alive
+Accept-Encoding: gzip
