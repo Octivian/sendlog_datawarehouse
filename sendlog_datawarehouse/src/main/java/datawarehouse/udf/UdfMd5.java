@@ -12,5 +12,6 @@ public class UdfMd5 extends UDF {
 			return null;
 		}
 		return new Text(MD5.get(s.toString()));
+		
 	}
 }
