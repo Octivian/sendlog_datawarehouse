@@ -1,4 +1,4 @@
-package datawarehouse.lang;
+package datawarehouse.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Random;

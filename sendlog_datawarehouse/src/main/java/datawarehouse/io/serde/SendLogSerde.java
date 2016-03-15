@@ -22,7 +22,7 @@ import org.apache.hadoop.hive.serde2.typeinfo.TypeInfoUtils;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.io.Writable;
 
-import datawarehouse.lang.StringUtils;
+import datawarehouse.utils.StringUtils;
  
 @SerDeSpec(schemaProps={serdeConstants.LIST_COLUMNS, serdeConstants.LIST_COLUMN_TYPES})
 public class SendLogSerde extends AbstractSerDe {
